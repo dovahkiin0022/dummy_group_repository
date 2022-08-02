@@ -8,5 +8,5 @@ dependencies:
   - matplotlib
   - python=3.8
   - pytorch
+pip:
   - pymatgen
-prefix: /noether/s0/aqd5773/anaconda3/envs/stress_strain
