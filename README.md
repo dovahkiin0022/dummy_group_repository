@@ -2,7 +2,18 @@
 Reinhart group project template
 
 # Problem Statement
-Based on preliminary data exploration, decided to use 'Ultimate Tensile Strength' as the property to predict.
+
+## Data files
+* `data/hw5-iron-alloy.csv`: a tabulated data file for about 1300 different iron alloys and their properties
+
+## Objective
+We want to predict the `Ultimate Tensile Strength` of alloys as a function of their composition.
+
+# Workflows
+* Data preprocessing: `notebooks/0_data_preprocessing.ipynb`
+* Exploratory data analysis: ...
+* Model fitting: ...
+* Hyperparameter tuning: ...
 
 # Setup
 Setup a new conda environment for this project:
